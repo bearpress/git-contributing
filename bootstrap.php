@@ -14,7 +14,7 @@
  * Author:      Git Contributing Team
  * Author URI:  https://KnowTheCode.io
  * Text Domain: git-contributing
- * License:     GPL-3+
+ * License:     GNU-3.0+
  * License URI: http://www.gnu.org/licenses/gpl-2.0.txt
  */
 
