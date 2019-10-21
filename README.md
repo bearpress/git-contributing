@@ -6,4 +6,4 @@ This repository is for the [Git Contributing](https://knowthecode.io/labs/git-co
 
 I'm testing the merge update stratedgyu.
 
-I'm continuing to work on this file.
+I'm continuing  to work on this file.
